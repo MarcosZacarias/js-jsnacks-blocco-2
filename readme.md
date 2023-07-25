@@ -35,3 +35,17 @@
   - "_numero stampato_" = "_numero scritto_" + 1
 
 - Stampo "_numero stampato_"
+
+**2. JSnack2**
+
+- Creo una lista nomi con dentro 4 nomi: "_lista nomi_"
+  - do un valore numerico ad ogni nome
+- Creo una lista cognomi con dentro 4 nomi: "_lista cognomi_"
+
+  - do un valore numerico ad ogni cognome
+
+- Creo una lista invitati
+
+  - per ogni nome nella "_lista nomi_" aggiungo un cognome nella "_lista cognomi_"
+
+- stampo lista invitati
