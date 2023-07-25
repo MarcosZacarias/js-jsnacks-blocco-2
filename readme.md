@@ -49,3 +49,16 @@
   - per ogni nome nella "_lista nomi_" aggiungo un cognome nella "_lista cognomi_"
 
 - stampo lista invitati
+
+**3. JSnack3**
+
+- creo una lista di numeri dal 1 al 10 "_lista di numeri_"
+
+- **per ogni** "_numero_" dentro "_lista di numeri_"
+
+  - **SE** il "_numero_" ha un numero d'ordine dispari
+    - "_numero dispari_" = "_numero_"
+    - "_numero dispari_" = la somma del numero del "_numero dispari_" + "_numero dispari_" successivo
+
+- Stampo il numero dispari
+  - che sarà la somma dei numeri dispari
